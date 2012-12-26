@@ -16,3 +16,24 @@ Items with a [?] in them do not have a planned release.
 
 API
 ====
+Cusk uses HTML as a programming language, but we plan to implement features such as OpenID and other login systems like 
+that.
+
+INSTALLATION
+====
+Nothing here yet.
+
+CREDITS
+====
+Developed by TripleHexel
+Concept and Graphics >>> SF007
+Main Code >>> Hannah Lane
+PR >>> Hannah Lane
+Site, Layout, "Look and feel" >>> hachI
+Special Thanks >>> GitHub, Wink, POPNic, Dev-Host, dot.tk, Which
+
+
+
+-END-
+
+You can download this file as a .TXT at: http://cusk.tk/5
